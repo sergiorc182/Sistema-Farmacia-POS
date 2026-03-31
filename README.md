@@ -28,4 +28,10 @@ Sistema de escritorio desarrollado en Java para la gestión integral de una farm
 - Persistencia con MySQL
 
 # Base de datos
+<<<<<<< HEAD
 - SQL
+=======
+- SQL
+
+El script de la base de datos se encuentra en:
+>>>>>>> deecf5904f71ead9168b6819812e7370cadb5f1d
